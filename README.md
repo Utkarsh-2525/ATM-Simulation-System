@@ -24,4 +24,4 @@ This project is a simple ATM (Automated Teller Machine) simulation implemented i
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Utkarsh-2525/atm-simulation-java.git
+git clone https://github.com/Utkarsh-2525/ATM-Simulation-System.git
